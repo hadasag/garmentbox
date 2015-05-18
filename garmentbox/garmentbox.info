@@ -46,6 +46,7 @@ dependencies[] = views_bulk_operations
 dependencies[] = gb_company
 dependencies[] = gb_item
 dependencies[] = gb_material
+dependencies[] = gb_migrate
 dependencies[] = gb_restful
 dependencies[] = gb_season
 dependencies[] = gb_task
